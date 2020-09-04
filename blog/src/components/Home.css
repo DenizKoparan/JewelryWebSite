@@ -1,0 +1,10 @@
+
+
+.card-content img
+{
+    width:80px !important;
+    height: 50px;
+    position: static !important;
+    top: 6px;
+    padding: 0 14px;
+}  

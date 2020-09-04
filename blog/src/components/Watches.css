@@ -1,0 +1,150 @@
+.sss img{
+    width: 250px;
+    height: 250px;
+    margin-right: 50px;
+    float:left;
+    margin-bottom: 70px;
+    margin-top: 40px;
+    padding: 20px;
+}
+.a{
+    position: fixed;
+    bottom: 20px;   
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    padding:15px;
+   
+    
+}
+.Al
+{
+    position: fixed;
+    bottom: 20px;   
+    left: 1200px;
+    width: 100%;
+    height: 50px;
+    padding:50px;
+   
+}
+.bbb img{
+    width: 200px;
+    height: 300px;
+    margin-right: 60px;
+    float:left;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.nnn img{
+    width: 200px;
+    height: 300px;
+    margin-right: 60px;
+    float:left;
+    margin-bottom: 100px;
+    margin-top: 50px;
+   
+}
+.nnn #p
+{
+    position: absolute !important;
+        top: 450px;
+        left: 225px;
+}
+.nnn #w
+{
+    position: absolute !important;
+        top: 450px;
+        left: 485px;
+
+}
+.nnn #c
+{
+    position: absolute !important;
+        top: 450px;
+        left: 745px;
+
+}
+.nnn #m
+{
+    position: absolute !important;
+        top: 450px;
+        left: 1005px;
+
+}
+.nnn #d
+{
+    position: absolute !important;
+        top: 900px;
+        left: 225px;
+
+}
+#lab
+{
+    position: absolute !important;
+    top: 575px;
+    left: 225px;
+
+}
+#w4
+{
+    position: absolute !important;
+    top: 500px;
+    left: 225px;
+ 
+
+}
+#wat1
+{
+    position: absolute !important;
+    top:345px;
+    left: 245px;
+}
+#wat2
+{
+    position: absolute !important;
+    top:345px;
+    left: 545px;
+}
+#wat3
+{
+    position: absolute !important;
+    top:345px;
+    left: 845px;
+}
+#wat4
+{
+    position: absolute !important;
+    top:705px;
+    left: 245px;
+}
+#wat5
+{
+    position: absolute !important;
+    top:705px;
+    left: 545px;
+}
+#B1{
+    position: absolute !important;
+    top: 425px;
+    left: 225px;
+}
+#B2{
+    position: absolute !important;
+    top: 425px;
+    left: 485px;
+}
+#B3{
+    position: absolute !important;
+    top: 425px;
+    left: 745px;
+}
+#B4{
+    position: absolute !important;
+    top: 425px;
+    left: 1005px;
+}
+#B5{
+    position: absolute !important;
+    top: 875px;
+    left:225px;
+}
